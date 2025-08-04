@@ -9,7 +9,7 @@ Some code we used was from GOODBLOX, since the only known working toolbox code w
   <br>
   Some old ROBLOX clients from before Late 2009.
   <br>
-  Some old ROBLOX Toolbox Models supporting your old ROBLOX clients.
+  Some models supporting your old ROBLOX clients.
   <br>
 <hr>
 <h1>Recommended stuff for ProjectToolBox to run:</h1>
@@ -21,4 +21,4 @@ Some code we used was from GOODBLOX, since the only known working toolbox code w
   <br>
   2007/08 ROBLOX Client.
   <br>
-  A 2007 ROBLOX Model archive from 2006 - 2008.
+  Some models supporting your old ROBLOX clients or a 2007 ROBLOX model archive from 2006 - 2008
